@@ -1,6 +1,6 @@
 # Mi primera API
 
-##instalacion del proyecto:
+## instalacion del proyecto:
 
     1. clonar el repositorio: https://github.com/Teoraque/tienda.git
 
@@ -22,7 +22,7 @@
 
             pip install psycopg2-binary
 
-##creacion de la base de datos
+## creacion de la base de datos
 
 para este proyecto se utilizo postgresql
 pasos para la conexion de la base de datos a django
@@ -45,7 +45,7 @@ pasos para la conexion de la base de datos a django
         }
 
     
-##ejecutar el servidor
+## ejecutar el servidor
 
 antes de ejecutar el servidor, debemos realizar las migraciones correspondientes
 
@@ -66,7 +66,7 @@ por defecto se ejecuta en el puerto 8000, por lo que debe acceder en su navegado
 
     http://127.0.0.1:8000
 
-##visualizalizacion de swagger
+## visualizalizacion de swagger
 
 podra observar la seccion de authorizacion, en donde debera autenticarse (colocando su usuario y password) y el servidor le devolvera un token de acceso,
 
