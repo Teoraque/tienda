@@ -82,10 +82,10 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'tienda',
-        'USER': 'postgres',
-        'PASSWORD': 'raquel',
-        'HOST': '127.0.0.1',
+        'NAME': 'defo67hk4cdn4t',
+        'USER': 'ipbofxsivcknxo',
+        'PASSWORD': 'cfb04b1f5a3aeb04e7941da36b4bdcebcbd64047235e34e2d772dbb60b9f790b',
+        'HOST': 'ec2-54-204-56-171.compute-1.amazonaws.com',
         'PORT': '5432',
     }
 }
