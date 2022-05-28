@@ -1,0 +1,1 @@
+web: gunicorn pmec.wsgi:application 
