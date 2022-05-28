@@ -1,1 +1,1 @@
-web: gunicorn pmec.wsgi:application 
+web: gunicorn mysite.wsgi:application 
